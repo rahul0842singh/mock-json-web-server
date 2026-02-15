@@ -1,0 +1,10 @@
+{
+  "name": "users-mock-api",
+  "private": true,
+  "scripts": {
+    "start": "json-server --watch mock-api/db.json --port $PORT --host 0.0.0.0"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}

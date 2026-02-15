@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "firstName": "Priyansh",
+      "lastName": "Singh",
+      "phone": "+91-9999999999",
+      "email": "priyansh@example.com"
+    },
+    {
+      "id": "acca",
+      "firstName": "Rahul",
+      "lastName": "kumar",
+      "phone": "8340251638",
+      "email": "kumar_rahulkkcs@yahoo.com"
+    },
+    {
+      "id": "215c",
+      "firstName": "Priyanka",
+      "lastName": "kumari",
+      "phone": "07453041899",
+      "email": "rah0987654321@gmail.com"
+    },
+    {
+      "id": "4deb",
+      "firstName": "david",
+      "lastName": "head",
+      "phone": "07453041899",
+      "email": "rah0987654321@gmail.com"
+    }
+  ]
+}
